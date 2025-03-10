@@ -1,6 +1,6 @@
-# Proyecto de Análisis de Sentimiento en IMDB
+# Proyecto de Análisis en IMDB
 
-Este proyecto entrena una red neuronal para analizar sentimientos en reseñas de películas utilizando el conjunto de datos IMDB. Se usa `Keras` con `TensorFlow` como backend para la construcción y entrenamiento del modelo.
+Este proyecto entrena una red neuronal para analizar el recibimiento en reseñas de películas utilizando el conjunto de datos IMDB. Se usa `Keras` con `TensorFlow` como backend para la construcción y entrenamiento del modelo.
 
 ## Estructura del Proyecto
 
